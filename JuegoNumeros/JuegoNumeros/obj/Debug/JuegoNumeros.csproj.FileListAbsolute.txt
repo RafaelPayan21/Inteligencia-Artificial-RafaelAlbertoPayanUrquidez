@@ -1,0 +1,7 @@
+C:\Users\rafau\source\repos\JuegoNumeros\JuegoNumeros\bin\Debug\JuegoNumeros.exe.config
+C:\Users\rafau\source\repos\JuegoNumeros\JuegoNumeros\bin\Debug\JuegoNumeros.exe
+C:\Users\rafau\source\repos\JuegoNumeros\JuegoNumeros\bin\Debug\JuegoNumeros.pdb
+C:\Users\rafau\source\repos\JuegoNumeros\JuegoNumeros\obj\Debug\JuegoNumeros.csproj.AssemblyReference.cache
+C:\Users\rafau\source\repos\JuegoNumeros\JuegoNumeros\obj\Debug\JuegoNumeros.csproj.CoreCompileInputs.cache
+C:\Users\rafau\source\repos\JuegoNumeros\JuegoNumeros\obj\Debug\JuegoNumeros.exe
+C:\Users\rafau\source\repos\JuegoNumeros\JuegoNumeros\obj\Debug\JuegoNumeros.pdb
